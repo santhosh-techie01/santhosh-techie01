@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Tools,Technologies,frameworks,Projects** and interested to collabrate in teams 
 
-- 📫 **Reach me @** <a href="https://linkedin.com/in/santhosh-techie01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhosh-techie01" height="25" width="40" /></a> <a href="mailto:santhosh01.tech@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="santhosh01.tech@gmail.com" height="25" width="29" /></a>
+- 📫 **Reach me @** <a href="https://www.linkedin.com/in/santhosh-m-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhosh-techie01" height="25" width="40" /></a> <a href="mailto:santhosh01.tech@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="santhosh01.tech@gmail.com" height="25" width="29" /></a>
                  
 - ⚡ Fun fact: I am **Polyglot**
 
